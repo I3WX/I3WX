@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Utkarhs Sharma @I3WX
+- 👋 Hi, I’m Utkarhs Sharma  @I3WX
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python porject
